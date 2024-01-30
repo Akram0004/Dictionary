@@ -20,6 +20,10 @@ Bookmark diificult words.
 
 Hover over recent searches to get a quick definiton of the word.
 
+copy and paste the below link in your browser!!
+
+file:///D:/Akram.mg/dictionary/index.html
+
 
 # Hope you like it !!
 
